@@ -1,0 +1,86 @@
+#content {
+  margin: 0 auto;
+  width: 900px;
+}
+
+
+.title h1 {
+  font-size: 50px;
+  font-family: 'Crimson Text', serif;
+  text-align: center;
+  color: #827081;
+}
+
+h4 {
+  font-family: 'Crimson Text', serif;
+  font-size: 25px;
+  font-weight: bolder;
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline;
+  padding-top: 30px;
+  color: #827081;
+}
+
+.photoheader {
+  max-width:100%;
+  max-height:100%;
+  border: 6px solid #827081;
+}
+
+/* Here is the CSS code for my blockquote! I am demonstrating my ability to comment!*/
+
+blockquote {
+font-family: 'Crimson Text', serif;
+font-style: italic;
+margin-top: 15px;
+margin-bottom: 15px;
+float: left;
+width:150px;
+font-size:30px;
+color: #827081;
+}
+
+.imagecaption {
+  color: gray;
+  text-transform: lowercase;
+  margin-top: 0px;
+}
+
+
+.sidephoto {
+  max-width:40%;
+  max-height:40%;
+  border: 2px solid #827081;
+  margin: 5px;
+  padding: 5px;
+}
+
+.floatright {
+  float: right;
+}
+
+.floatleft {
+  float:left;
+}
+
+.italics {
+  font-style:italic;
+}
+
+.blue {
+  color: #C6D2ED;
+}
+
+#byline {
+  font-family: Arial;
+  font-size: 15px;
+  text-align: center;
+  font-style: italic;
+  color: #AEA3B0;
+}
+
+p {
+  font-family: 'Helvetica' sans-serif, Arial, sans-serif;
+  font-size: 15px;
+}
